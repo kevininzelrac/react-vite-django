@@ -18,4 +18,5 @@ django/db.sqlite3
 
 # Ignore les fichiers de build Django
 django/__pycache__/
-django/app/migrations/
+django/*/migrations/
+django/*/migrations/
