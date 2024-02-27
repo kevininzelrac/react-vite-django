@@ -8,4 +8,14 @@ __pycache__/
 # Ignore les fichiers de configuration locaux
 *.pyc
 *.pyo
-.vscode/i
+
+# Ignore les fichiers de build de Vite
+vite/dist/
+vite/node_modules/
+
+# Ignore les fichiers de la base de données Django
+django/db.sqlite3
+
+# Ignore les fichiers de build Django
+django/__pycache__/
+django/app/migrations/
