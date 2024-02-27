@@ -2,6 +2,8 @@
 # Ignore le dossier d'environnement virtuel
 venv/
 
+.env 
+
 # Ignore les fichiers générés par Python
 __pycache__/
 
