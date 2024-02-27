@@ -22,3 +22,5 @@ django/db.sqlite3
 django/__pycache__/
 django/*/migrations/
 django/*/migrations/
+
+django/datadump.json
